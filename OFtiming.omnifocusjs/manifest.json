@@ -1,0 +1,13 @@
+{
+    "author": "Brent Deverman",
+    "identifier": "com.deverman.of-timing",
+    "version": "1.0",
+    "description": "Control Timing App API from Omnifocus.",
+    "actions": [
+        {
+            "image": "start.png",
+            "identifier": "startTiming"
+        },
+    ],
+    "defaultLocale": "en"
+}
